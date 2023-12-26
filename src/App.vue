@@ -1,6 +1,6 @@
 <script setup>
-import Header from './components/Header.vue';
-import PreHeader from './components/PreHeader.vue';
+import Header from './Components/Header.vue';
+import PreHeader from './Components/PreHeader.vue';
 </script>
 
 <template>
