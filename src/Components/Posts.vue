@@ -10,7 +10,7 @@ import ChevronLeft from "../Icons/ChevronLeft.vue";
   <div class="flex flex-col lg:flex-row justify-evenly">
     <div class="w-full lg:max-w-sm bg-white rounded">
       <a href="#">
-        <img class="rounded-t-lg" src="../Assets/posts/growth.png" alt="" />
+        <img class="rounded-t-lg" src="../Assets/Posts/growth.png" alt="" />
       </a>
       <div class="p-5">
         <a href="#">
@@ -29,7 +29,7 @@ import ChevronLeft from "../Icons/ChevronLeft.vue";
     </div>
     <div class="w-full hidden lg:block lg:max-w-sm bg-white rounded">
       <a href="#">
-        <img class="rounded-t-lg" src="../Assets/posts/career.png" alt="" />
+        <img class="rounded-t-lg" src="../Assets/Posts/career.png" alt="" />
       </a>
       <div class="p-5">
         <a href="#">
@@ -45,7 +45,7 @@ import ChevronLeft from "../Icons/ChevronLeft.vue";
     </div>
     <div class="w-full hidden lg:block lg:max-w-sm bg-white rounded">
       <a href="#">
-        <img class="rounded-t-lg" src="../Assets/posts/design.png" alt="" />
+        <img class="rounded-t-lg" src="../Assets/Posts/design.png" alt="" />
       </a>
       <div class="p-5">
         <a href="#">
